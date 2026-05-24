@@ -1,37 +1,30 @@
 # Isabella Cappiello
 ### Junior Data Scientist | Research Analyst
 
-[LinkedIn](https://linkedin.com/in/isabella-cappiello-data) | [Email](mailto:cappiello.isabella792@gmail.com) | [Interactive Shiny Dashboard](https://isabella792.shinyapps.io/1euro-houses-impact-evaluation/)
+[LinkedIn](https://linkedin.com/in/isabella-cappiello-data) | [Interactive Shiny Dashboard](https://isabella792.shinyapps.io/1euro-houses-impact-evaluation/) | **[📄 Download Full CV (PDF)](CV_Isabella_Cappiello_Junior_Data_Scientist.pdf)**
 
-Data Science Double Degree Master’s Candidate (Italy/France) specializing in Causal Inference, Spatio-Temporal Statistics, and Machine Learning pipelines for economic policy evaluation. 
-
-*Currently balancing full-time STEM teaching with graduate research, while actively seeking high-impact, fully-funded Research Internships and Quantitative Data roles globally.*
+Double Degree MSc Candidate (IT/FR) specializing in Causal Inference, Spatio-Temporal ML, and programmatic pipelines for policy evaluation. Balancing graduate research with full-time STEM knowledge transfer.
 
 ---
 
-## 📄 CURRICULUM VITAE
-### 📥 [Download Full CV in PDF format](CV_Isabella_Cappiello_Junior_Data_Scientist.pdf)
-*Allineato al percorso accademico UniBS / Unistra e alle attività didattiche istituzionali.*
+### 🔬 Core Expertise & Technical Stack
+
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **Methodologies** | Causal Inference (Staggered DiD), Spatio-Temporal Statistics, Advanced Econometrics |
+| **Technical Stack** | R (`tidyverse`, `sf`, `leaflet`), Python (`scikit-learn`, `pandas`), SQL, Git, R Shiny |
+| **Languages** | English (C1 - Professional), Italian (Native), French (A2) |
 
 ---
 
-## 🔬 Core Expertise & Research Focus
+### 🚀 Featured Research & Production Pipelines
 
-* **Methodologies:** Causal Inference (Staggered Difference-in-Differences), Spatio-Temporal Statistics, Advanced Econometrics, Reproducible Research.
-* **Technical Stack:** R (`tidyverse`, `sf`, `leaflet`), Python (`scikit-learn`, `pandas`), SQL, Git, R Shiny.
-* **Languages:** English (C1 - Professional), Italian (Native), French (A2).
+#### 📍 Spatio-Temporal Analysis: Impact of "1-Euro Houses"
+* **Context:** Master's Thesis Project | *R, Shiny, sf, leaflet*
+* Harmonized **20+ years of ISTAT/MEF institutional datasets** (7,900+ municipalities) via recursive spatial algorithms to handle administrative boundary changes.
+* Estimated socio-economic treatment effects utilizing **Staggered Difference-in-Differences (DiD)**.
+* 🌐 **Live App:** [Explore the Interactive Geospatial Dashboard](https://isabella792.shinyapps.io/1euro-houses-impact-evaluation/)
 
----
-
-## 🚀 Featured Project & Thesis Work
-### Spatio-Temporal Analysis: Impact of "1-Euro Houses"
-* **Master's Thesis Project** | *Stack: R, Shiny, sf, leaflet*
-* Engineered an end-to-end R pipeline to harmonize **20+ years of ISTAT/MEF institutional datasets** across 7,900+ Italian municipalities, resolving administrative mergers via recursive spatial algorithms.
-* Quantified socio-economic trajectories and regional vitality shifts using **Staggered DiD** models for causal inference.
-* 🌐 **Live Application:** [Explore the Interactive Dashboard](https://isabella792.shinyapps.io/1euro-houses-impact-evaluation/)
-
----
-
-## 🏫 Current Focus & Knowledge Transfer
-* **Category:** *STEM Educator | Data Analytics & Digital Literacy*
-* Currently leading IT and data literacy knowledge transfer for 200+ students in public institutions, designing workflows focused on Data Integrity and technical reasoning.
+#### 🏫 Institutional Knowledge Transfer & Operations
+* **Role:** STEM Educator (Data Analytics & Digital Literacy)
+* Designing and executing data integrity workflows and computational logic training for **200+ users** in public institutions.
