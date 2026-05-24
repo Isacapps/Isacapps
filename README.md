@@ -1,11 +1,11 @@
 # Isabella Cappiello
 ### Junior Data Scientist | Research Analyst
 
-[LinkedIn](https://linkedin.com/in/isabella-cappiello-data) | [Email](mail to:cappiello.isabella792@gmail.com) | [Interactive Shiny Dashboard](https://isabella792.shinyapps.io/1euro-houses-impact-evaluation/)
+[LinkedIn](https://linkedin.com/in/isabella-cappiello-data) | [Email](mailto:cappiello.isabella792@gmail.com) | [Interactive Shiny Dashboard](https://isabella792.shinyapps.io/1euro-houses-impact-evaluation/)
 
 Data Science Double Degree Master’s Candidate (Italy/France) specializing in Causal Inference, Spatio-Temporal Statistics, and Machine Learning pipelines for economic policy evaluation. 
 
-Currently balancing full-time STEM teaching with graduate research, while actively seeking high-impact, fully-funded Research Internships and Quantitative Data roles globally.
+*Currently balancing full-time STEM teaching with graduate research, while actively seeking high-impact, fully-funded Research Internships and Quantitative Data roles globally.*
 
 ---
 
@@ -33,4 +33,5 @@ Currently balancing full-time STEM teaching with graduate research, while active
 ---
 
 ## 🏫 Current Focus & Knowledge Transfer
-* **STEM Educator | Data Analytics & Digital Literacy:** Currently leading IT and data literacy knowledge transfer for 200+ students in public institutions, designing workflows focused on Data Integrity and technical reasoning.
+* **Category:** *STEM Educator | Data Analytics & Digital Literacy*
+* Currently leading IT and data literacy knowledge transfer for 200+ students in public institutions, designing workflows focused on Data Integrity and technical reasoning.
